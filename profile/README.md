@@ -32,12 +32,6 @@ Somos expertos en tecnología de drones con una amplia gama de servicios:
   - Evaluación de techos y estructuras de difícil acceso
   - Inspecciones industriales y de seguridad
 
-- **🌾 Agricultura de Precisión**
-  - Mapeo y monitoreo de cultivos
-  - Análisis de salud vegetal
-  - Optimización de recursos agrícolas
-  - Fumigación y siembra de precisión
-
 - **🗺️ Topografía y Cartografía**
   - Levantamientos topográficos
   - Generación de mapas 3D
